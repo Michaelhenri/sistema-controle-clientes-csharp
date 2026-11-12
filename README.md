@@ -33,5 +33,35 @@ O projeto foi estruturado utilizando o ambiente de desenvolvimento **Visual Stud
 
 1. **Configuração Inicial do Projeto**:
    - Criação de um aplicativo de console via terminal utilizando o .NET CLI:
-```bash
+```powershell
 dotnet new console -o Atividade
+```
+2. **Implementação da Classe Pai (`Clientes.cs`)**:
+   - Contém os atributos genéricos (`nome`, `endereco`, `valor`, `valor_imposto`, `total`) e o método virtual `Pagar_Imposto(float v)`.
+3. **Implementação das Classes Derivadas (`Pessoa_Fisica.cs` e `Pessoa_Juridica.cs`)**:
+   - Utilização de herança (`: Clientes`) para herdar características da classe pai e adição de atributos específicos.
+   - Na classe de Pessoa Jurídica, utilizou-se a palavra-chave `override` para sobrescrever o cálculo do imposto para 20%.
+4. **Orquestração e Execução (`Program.cs`)**:
+   - Utilização de estruturas condicionais (`if`) para direcionar o fluxo de acordo com a escolha do usuário (`f` ou `j`), capturando as entradas via `Console.ReadLine()` e exibindo os resultados formatados na tela.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Se você quiser clonar e rodar este projeto na sua máquina, siga os passos abaixo:
+
+1. Certifique-se de ter o **.NET SDK** instalado na sua máquina.
+2. Clone o repositório ou baixe os arquivos:
+   ```bash
+   git clone https://github.com/Michaelhenri/sistema-controle-clientes-csharp.git
+   ```
+3. Abra a pasta do projeto no seu terminal ou no VS Code.
+4. Execute o comando para compilar e rodar a aplicação:
+   ```powershell
+   dotnet run
+   ```
+
+---
+
+## 👨‍💻 Autor
+Desenvolvido por **Michael Henrique** durante a jornada de capacitação técnica em Programação Back-End.
