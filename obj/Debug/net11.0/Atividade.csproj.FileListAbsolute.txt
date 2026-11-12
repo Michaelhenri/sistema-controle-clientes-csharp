@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\_SENAI\atividade\bin\Debug\net11.0\Atividade.exe
+C:\Users\Acer\Desktop\_SENAI\Atividade\bin\Debug\net11.0\Atividade.deps.json
+C:\Users\Acer\Desktop\_SENAI\Atividade\bin\Debug\net11.0\Atividade.runtimeconfig.json
+C:\Users\Acer\Desktop\_SENAI\Atividade\bin\Debug\net11.0\Atividade.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\_SENAI\atividade\bin\Debug\net11.0\Atividade.dll
+C:\Users\Acer\Desktop\_SENAI\atividade\bin\Debug\net11.0\Atividade.pdb
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\Atividade.AssemblyInfo.cs
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\Atividade.dll
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\refint\Atividade.dll
+C:\Users\Acer\Desktop\_SENAI\atividade\obj\Debug\net11.0\Atividade.pdb
+C:\Users\Acer\Desktop\_SENAI\Atividade\obj\Debug\net11.0\Atividade.genruntimeconfig.cache
+C:\Users\Acer\Desktop\_SENAI\Atividade\obj\Debug\net11.0\ref\Atividade.dll
+C:\Users\Acer\Desktop\_SENAI\Atividade\obj\Debug\net11.0\Atividade.csproj.Up2Date
